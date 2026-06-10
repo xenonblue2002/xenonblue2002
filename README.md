@@ -90,6 +90,11 @@ Award-winning innovation that detects driver drowsiness using infrared sensors a
 ### 🧳 Smart Suitcase
 Designed a Bluetooth-controlled smart suitcase with a custom mobile application developed using MIT App Inventor.
 
+### 💨 Smart Gas Leakage Detection System
+[![Smart Gas Leakage Detection System](https://img.youtube.com/vi/eH2zlyrvBZg/maxresdefault.jpg)](https://youtu.be/eH2zlyrvBZg)
+
+Click the image above to watch the demonstration video.
+
 ---
 
 ## 📈 Current Learning Journey
