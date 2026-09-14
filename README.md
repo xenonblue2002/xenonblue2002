@@ -46,14 +46,14 @@
 
 
 <!-- ========================================================= -->
-<!--                    PROJECTS                               -->
+<!--                       PROJECTS                            -->
 <!-- ========================================================= -->
 
 <table width="100%" cellpadding="18" cellspacing="12">
 
 
 <!-- ========================================================= -->
-<!--                 PROJECT 01 + 02                           -->
+<!--                 PROJECT 01 + 02                          -->
 <!-- ========================================================= -->
 
 <tr>
@@ -65,6 +65,14 @@
 <div align="center">
 
 <h2>01 // SMART EYEGLASSES</h2>
+
+<br>
+
+<a href="YOUR_SMART_EYEGLASSES_REPO_LINK">
+
+<img src="https://img.shields.io/badge/%3E_VIEW_PROJECT-BC13FE?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
 
 </div>
 
@@ -116,6 +124,14 @@ WARNING ALERT
 
 <h2>02 // AR NETWORK</h2>
 
+<br>
+
+<a href="YOUR_AR_NETWORK_REPO_LINK">
+
+<img src="https://img.shields.io/badge/%3E_VIEW_PROJECT-BC13FE?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
 </div>
 
 <hr>
@@ -159,7 +175,7 @@ PORT STATUS
 
 
 <!-- ========================================================= -->
-<!--                 PROJECT 03 + 04                           -->
+<!--                 PROJECT 03 + 04                          -->
 <!-- ========================================================= -->
 
 <tr>
@@ -171,6 +187,14 @@ PORT STATUS
 <div align="center">
 
 <h2>03 // GAS DETECTION</h2>
+
+<br>
+
+<a href="YOUR_GAS_DETECTION_REPO_LINK">
+
+<img src="https://img.shields.io/badge/%3E_VIEW_PROJECT-BC13FE?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
 
 </div>
 
@@ -230,6 +254,14 @@ REMOTE MONITORING
 
 <h2>04 // SMART SUITCASE</h2>
 
+<br>
+
+<a href="YOUR_SMART_SUITCASE_REPO_LINK">
+
+<img src="https://img.shields.io/badge/%3E_VIEW_PROJECT-BC13FE?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
 </div>
 
 <hr>
@@ -274,7 +306,7 @@ SMART SUITCASE
 
 
 <!-- ========================================================= -->
-<!--                    PROJECT 05                             -->
+<!--                    PROJECT 05                            -->
 <!-- ========================================================= -->
 
 <tr>
@@ -284,6 +316,14 @@ SMART SUITCASE
 <div align="center">
 
 <h2>05 // SENSOR MONITOR</h2>
+
+<br>
+
+<a href="YOUR_SENSOR_MONITOR_REPO_LINK">
+
+<img src="https://img.shields.io/badge/%3E_VIEW_PROJECT-BC13FE?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
 
 </div>
 
