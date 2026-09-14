@@ -68,7 +68,7 @@
 
 <br>
 
-<a href="YOUR_SMART_EYEGLASSES_REPO_LINK">
+<a href="https://github.com/xenonblue2002/Smart-Eyeglasses">
 
 <img src="https://img.shields.io/badge/%3E_VIEW_PROJECT-BC13FE?style=for-the-badge&logo=github&logoColor=white">
 
