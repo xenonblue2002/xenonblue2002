@@ -1,95 +1,27 @@
-<!-- ========================= -->
-<!--        CYBER HEADER       -->
-<!-- ========================= -->
+<!-- ========================================================= -->
+<!--                  MUHAMMAD HAIKAL                          -->
+<!--              CYBERPUNK GITHUB PROFILE                    -->
+<!-- ========================================================= -->
+
+
+<!-- ========================================================= -->
+<!--                  CYBER PROFILE HUD                       -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=12001F&height=100&section=header&text=SYSTEM%20INITIALIZED&fontSize=32&fontColor=BC13FE&animation=twinkling&fontAlignY=50&desc=EMBEDDED%20SYSTEMS%20%2F%2F%20FIRMWARE%20%2F%2F%20IoT&descAlignY=75&descSize=15">
+<img src="./haikal_cyber_hud_typing_under25mb.gif"
+     width="100%"
+     alt="Muhammad Haikal Cyber Profile">
 
 </div>
 
 <br>
 
-<!-- ========================= -->
-<!--     PROFILE + TERMINAL    -->
-<!-- ========================= -->
 
-<table width="100%" cellpadding="10" cellspacing="0">
-
-<tr>
-
-<td width="48%" align="center" valign="top">
-
-<img src="./profile.png" width="500" alt="Muhammad Haikal">
-
-</td>
-
-<td width="52%" valign="top">
-
-<table width="100%" cellpadding="10" cellspacing="0">
-
-<tr>
-
-<td bgcolor="#12001F">
-
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║                         BIODATA                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║ > NAME        : MUHAMMAD HAIKAL BIN ZULKIFLI                 ║
-║ > ROLE        : ASEM TRAINEE                                 ║
-║ > FIELD       : EMBEDDED SYSTEM                              ║
-║ > EDUCATION   : ELECTRONICS ENGINEERING                      ║
-║ > UNIVERSITY  : UNIVERSITI TEKNOLOGI MARA (UiTM)             ║
-║                                                              ║
-║                    > ACHIEVEMENT                             ║
-║                                                              ║
-║ > [01] 🥇     : GOLD AWARD – i-RiSE 2025                     ║
-║ > [02] 🥈     : SILVER AWARD – AIOTIE 2024                   ║
-║ > [03] 🏅     : VICE CHANCELLOR AWARD RECIPIENT              ║
-║ > [04] 🔬     : R&D EXPERIENCE – MIMOS                       ║
-║                                                              ║
-║                    > MAIN INTEREST                           ║
-║                                                              ║
-║ > [01] ⚙️     : EMBEDDED SYSTEMS & FIRMWARE                 ║
-║ > [02] 🌐     : IoT & CONNECTED DEVICES                     ║
-║ > [03] 🤖     : EDGE AI & COMPUTER VISION                   ║
-║ > [04] 📡     : NETWORKING                                  ║
-║                                                              ║
-║ > STATUS      : ONLINE                                       ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
-
-</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<!-- ========================= -->
-<!--      ANIMATED TERMINAL    -->
-<!-- ========================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=BC13FE&center=true&vCenter=true&width=750&lines=%3E+SYSTEM+ONLINE;%3E+EMBEDDED+SYSTEMS+INITIALIZED;%3E+FIRMWARE+%2F%2F+IoT+%2F%2F+EDGE+AI;%3E+HARDWARE+MEETS+INTELLIGENCE;%3E+BUILDING+THE+FUTURE..." alt="Typing Animation">
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--      ANIMATED DIVIDER     -->
-<!-- ========================= -->
+<!-- ========================================================= -->
+<!--                    NEON DIVIDER                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -99,85 +31,230 @@
 
 <br>
 
-<!-- ========================= -->
-<!--          PROJECTS         -->
-<!-- ========================= -->
 
-<h2 align="center">⚡ PROJECTS</h2>
+<!-- ========================================================= -->
+<!--                  PROJECT DATABASE                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=800&color=BC13FE&center=true&vCenter=true&width=600&lines=%3E+PROJECT_DATABASE;%3E+SCANNING_PROJECTS...;%3E+PROJECTS_LOADED;%3E+SELECT_PROJECT..." alt="Project Database">
+
+</div>
 
 <br>
 
-<table width="100%" cellpadding="12" cellspacing="10">
+
+<!-- ========================================================= -->
+<!--                       PROJECTS                            -->
+<!-- ========================================================= -->
+
+<table width="100%" cellpadding="18" cellspacing="12">
+
+
+<!-- ========================================================= -->
+<!--                 PROJECT 01 + 02                          -->
+<!-- ========================================================= -->
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#12001F">
+<td width="50%" valign="top" bgcolor="#090B12">
 
-### 👓 Smart Eyeglasses for Driving Safety
+<div align="center">
 
-**Description**
+<h2>01 // SMART EYEGLASSES</h2>
 
-Infrared-based driver safety system that detects prolonged eye closure and provides warning alerts.
+</div>
 
-**Technology**
+<hr>
 
-`STM32` `Embedded C` `IR Sensor` `OLED`
+<p><b>PROJECT STATUS</b></p>
 
-**Achievement**
+<p><code>[ COMPLETED ]</code></p>
 
-🥇 **Gold Award — i-RiSE 2025**
+<p><b>DESCRIPTION</b></p>
+
+<p>
+An embedded driver safety system designed to detect prolonged eye closure and provide warning alerts.
+</p>
+
+<p><b>SYSTEM CORE</b></p>
+
+<pre>
+MCU       → STM32
+LANGUAGE  → Embedded C
+SENSOR    → IR Sensor
+DISPLAY   → OLED
+</pre>
+
+<p><b>KEY FEATURE</b></p>
+
+<pre>
+IR SENSOR
+    ↓
+EYE CLOSURE DETECTION
+    ↓
+PROCESSING
+    ↓
+WARNING ALERT
+</pre>
+
+<p><b>ACHIEVEMENT</b></p>
+
+<code>GOLD AWARD // i-RiSE 2025</code>
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#12001F">
 
-### ♻️ Edge AI Waste Classification
+<td width="50%" valign="top" bgcolor="#090B12">
 
-**Description**
+<div align="center">
 
-Embedded vision system for classifying different types of waste using an edge AI model.
+<h2>02 // EDGE AI WASTE</h2>
 
-**Technology**
+</div>
 
-`Raspberry Pi` `ESP32` `TensorFlow Lite` `OpenCV`
+<hr>
+
+<p><b>PROJECT STATUS</b></p>
+
+<p><code>[ COMPLETED ]</code></p>
+
+<p><b>DESCRIPTION</b></p>
+
+<p>
+An edge AI-based waste classification system designed to identify different categories of waste using computer vision.
+</p>
+
+<p><b>SYSTEM CORE</b></p>
+
+<pre>
+PROCESSOR  → Raspberry Pi
+MCU        → ESP32
+AI MODEL   → TensorFlow Lite
+VISION     → OpenCV
+</pre>
+
+<p><b>CLASSIFICATION</b></p>
+
+<pre>
+FOOD
+METAL
+PAPER
+PLASTIC
+</pre>
+
+<p><b>SYSTEM</b></p>
+
+<code>EDGE AI // COMPUTER VISION</code>
 
 </td>
 
 </tr>
 
+
+<!-- ========================================================= -->
+<!--                 PROJECT 03 + 04                          -->
+<!-- ========================================================= -->
+
 <tr>
 
-<td width="50%" valign="top" bgcolor="#12001F">
+<td width="50%" valign="top" bgcolor="#090B12">
 
-### 🌐 AR Network Visualization
+<div align="center">
 
-**Description**
+<h2>03 // AR NETWORK</h2>
 
-Augmented Reality application for visualizing network device information and network status.
+</div>
 
-**Technology**
+<hr>
 
-`Unity` `Vuforia` `Telnet` `Networking`
+<p><b>PROJECT STATUS</b></p>
+
+<p><code>[ COMPLETED ]</code></p>
+
+<p><b>DESCRIPTION</b></p>
+
+<p>
+An Augmented Reality application designed to visualize network device information and network status through AR.
+</p>
+
+<p><b>SYSTEM CORE</b></p>
+
+<pre>
+ENGINE     → Unity
+AR         → Vuforia
+NETWORK    → Telnet
+TESTING    → Packet Tracer
+</pre>
+
+<p><b>VISUALIZATION</b></p>
+
+<pre>
+ROUTER
+SWITCH
+IP ADDRESS
+MAC ADDRESS
+PORT STATUS
+</pre>
+
+<p><b>SYSTEM</b></p>
+
+<code>AR // NETWORK VISUALIZATION</code>
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#12001F">
 
-### 🔥 Smart Gas Leakage Detection
+<td width="50%" valign="top" bgcolor="#090B12">
 
-**Description**
+<div align="center">
 
-IoT-based gas monitoring system capable of detecting gas leakage and providing remote monitoring.
+<h2>04 // GAS DETECTION</h2>
 
-**Technology**
+</div>
 
-`ESP32` `NodeMCU` `MQ-2` `Blynk`
+<hr>
 
-<br>
+<p><b>PROJECT STATUS</b></p>
+
+<p><code>[ COMPLETED ]</code></p>
+
+<p><b>DESCRIPTION</b></p>
+
+<p>
+An IoT-based gas leakage detection system capable of monitoring gas levels and providing remote monitoring.
+</p>
+
+<p><b>SYSTEM CORE</b></p>
+
+<pre>
+MCU       → ESP32
+NETWORK   → NodeMCU
+SENSOR    → MQ-2
+IoT       → Blynk
+</pre>
+
+<p><b>SYSTEM FLOW</b></p>
+
+<pre>
+MQ-2 SENSOR
+     ↓
+ESP32
+     ↓
+WiFi
+     ↓
+BLYNK
+     ↓
+REMOTE MONITORING
+</pre>
+
+<p><b>DEMO</b></p>
 
 <a href="https://youtu.be/eH2zlyrvBZg">
 
-<img src="https://img.youtube.com/vi/eH2zlyrvBZg/maxresdefault.jpg" width="100%" alt="Smart Gas Leakage Detection">
+<img src="https://img.youtube.com/vi/eH2zlyrvBZg/maxresdefault.jpg"
+     width="100%"
+     alt="Smart Gas Leakage Detection">
 
 </a>
 
@@ -185,33 +262,106 @@ IoT-based gas monitoring system capable of detecting gas leakage and providing r
 
 </tr>
 
+
+<!-- ========================================================= -->
+<!--                 PROJECT 05 + 06                          -->
+<!-- ========================================================= -->
+
 <tr>
 
-<td width="50%" valign="top" bgcolor="#12001F">
+<td width="50%" valign="top" bgcolor="#090B12">
 
-### 🧳 Smart Suitcase
+<div align="center">
 
-**Description**
+<h2>05 // SMART SUITCASE</h2>
 
-Smart luggage concept controlled wirelessly through a mobile application.
+</div>
 
-**Technology**
+<hr>
 
-`Arduino` `Bluetooth` `MIT App Inventor`
+<p><b>PROJECT STATUS</b></p>
+
+<p><code>[ COMPLETED ]</code></p>
+
+<p><b>DESCRIPTION</b></p>
+
+<p>
+A smart luggage concept designed to provide wireless control through a mobile application.
+</p>
+
+<p><b>SYSTEM CORE</b></p>
+
+<pre>
+MCU        → Arduino
+WIRELESS   → Bluetooth
+MOBILE APP → MIT App Inventor
+</pre>
+
+<p><b>CONTROL</b></p>
+
+<pre>
+MOBILE APP
+     ↓
+BLUETOOTH
+     ↓
+ARDUINO
+     ↓
+SMART SUITCASE
+</pre>
+
+<p><b>SYSTEM</b></p>
+
+<code>IoT // WIRELESS CONTROL</code>
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#12001F">
 
-### 📡 Sensor Monitoring System
+<td width="50%" valign="top" bgcolor="#090B12">
 
-**Description**
+<div align="center">
 
-IoT monitoring system that collects sensor data and displays information through a cloud dashboard.
+<h2>06 // SENSOR MONITOR</h2>
 
-**Technology**
+</div>
 
-`ESP32` `Sensors` `IoT` `Blynk`
+<hr>
+
+<p><b>PROJECT STATUS</b></p>
+
+<p><code>[ COMPLETED ]</code></p>
+
+<p><b>DESCRIPTION</b></p>
+
+<p>
+An IoT monitoring system designed to collect sensor data and display the information through a cloud dashboard.
+</p>
+
+<p><b>SYSTEM CORE</b></p>
+
+<pre>
+MCU        → ESP32
+SENSORS    → Multiple Sensors
+IoT        → Blynk
+MONITORING → Cloud Dashboard
+</pre>
+
+<p><b>SYSTEM FLOW</b></p>
+
+<pre>
+SENSORS
+   ↓
+ESP32
+   ↓
+WiFi
+   ↓
+BLYNK
+   ↓
+MONITORING DASHBOARD
+</pre>
+
+<p><b>SYSTEM</b></p>
+
+<code>IoT // SENSOR MONITORING</code>
 
 </td>
 
@@ -221,9 +371,10 @@ IoT monitoring system that collects sensor data and displays information through
 
 <br>
 
-<!-- ========================= -->
-<!--      ANIMATED DIVIDER     -->
-<!-- ========================= -->
+
+<!-- ========================================================= -->
+<!--                    NEON DIVIDER                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -233,13 +384,14 @@ IoT monitoring system that collects sensor data and displays information through
 
 <br>
 
-<!-- ========================= -->
-<!--        SYSTEM STATUS      -->
-<!-- ========================= -->
+
+<!-- ========================================================= -->
+<!--                    FINAL STATUS                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+STATUS+%3A+ONLINE+%5D;%5B+FIRMWARE+%3A+RUNNING+%5D;%5B+IoT+LINK+%3A+CONNECTED+%5D;%5B+CORE+%3A+ACTIVE+%5D" alt="System Status">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1700&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+STATUS+%3A+ONLINE+%5D;%5B+FIRMWARE+%3A+RUNNING+%5D;%5B+IoT+LINK+%3A+CONNECTED+%5D;%5B+EDGE+AI+%3A+ACTIVE+%5D;%5B+ALL+SYSTEMS+%3A+NOMINAL+%5D" alt="System Status">
 
 <br><br>
 
@@ -247,12 +399,10 @@ IoT monitoring system that collects sensor data and displays information through
 
 <br><br>
 
-<p>
-<b>⚡ EMBEDDED SYSTEMS • FIRMWARE • IoT • ELECTRONICS • EDGE AI</b>
-</p>
+<code>⚡ EMBEDDED SYSTEMS • FIRMWARE • IoT • ELECTRONICS • EDGE AI</code>
 
-<p>
+<br><br>
+
 <code>[ SYSTEM STATUS : ONLINE ]</code>
-</p>
 
 </div>
