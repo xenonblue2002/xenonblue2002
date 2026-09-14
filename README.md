@@ -2,41 +2,45 @@
 <!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 
-<!-- ===================== LEFT COLUMN ======================= -->
+<!-- ========================================================= -->
+<!--                     LEFT SIDE                              -->
+<!-- ========================================================= -->
 
-<td width="38%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 
-<img src="./profile.png" width="360" alt="Muhammad Haikal">
+<img src="./profile.png" width="430" alt="Muhammad Haikal">
 
-<br><br>
+<br>
 
 <h1>Muhammad Haikal Bin Zulkifli</h1>
 
-<hr>
+<hr width="90%">
 
 <h3>Electronics Engineering Graduate</h3>
 
 <p>
-Embedded Systems • Firmware • IoT
+<b>Embedded Systems • Firmware • IoT</b>
 </p>
 
 </td>
 
 
-<!-- ===================== RIGHT COLUMN ====================== -->
+<!-- ========================================================= -->
+<!--                     RIGHT SIDE                             -->
+<!-- ========================================================= -->
 
-<td width="62%" valign="top">
+<td width="55%" valign="top">
 
 <h1>👨‍💻 Biodata</h1>
 
-<table width="100%">
+<table width="100%" cellpadding="8" cellspacing="0">
 
 <tr>
-<td width="25%"><b>Name</b></td>
-<td>Muhammad Haikal Bin Zulkifli</td>
+<td width="23%"><b>Name</b></td>
+<td width="77%">Muhammad Haikal Bin Zulkifli</td>
 </tr>
 
 <tr>
@@ -61,7 +65,6 @@ Embedded Systems • Firmware • IoT
 
 <tr>
 <td colspan="2">
-<br>
 <h3>🏆 Achievement</h3>
 </td>
 </tr>
@@ -88,7 +91,6 @@ Embedded Systems • Firmware • IoT
 
 <tr>
 <td colspan="2">
-<br>
 <h3>💡 Main Interest</h3>
 </td>
 </tr>
@@ -122,7 +124,7 @@ Embedded Systems • Firmware • IoT
 
 
 <!-- ========================================================= -->
-<!--                    ABOUT ME                                -->
+<!--                     ABOUT ME                               -->
 <!-- ========================================================= -->
 
 <br>
@@ -143,12 +145,12 @@ AI-powered applications.
 
 
 <!-- ========================================================= -->
-<!--                    TECHNICAL SKILLS                        -->
+<!--                     TECHNICAL SKILLS                       -->
 <!-- ========================================================= -->
 
 <h2>🛠️ Technical Skills</h2>
 
-<table width="100%">
+<table width="100%" cellpadding="10" cellspacing="0">
 
 <tr>
 
@@ -234,12 +236,12 @@ AI-powered applications.
 
 
 <!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                       -->
+<!--                     FEATURED PROJECTS                       -->
 <!-- ========================================================= -->
 
 <h2>🚀 Featured Projects</h2>
 
-<table width="100%">
+<table width="100%" cellpadding="10" cellspacing="0">
 
 <tr>
 
@@ -345,7 +347,9 @@ ESP32 and NodeMCU for gas detection and remote monitoring.
 </p>
 
 <a href="https://youtu.be/eH2zlyrvBZg">
-<img src="https://img.youtube.com/vi/eH2zlyrvBZg/maxresdefault.jpg" width="100%" alt="Smart Gas Leakage Detection System">
+<img src="https://img.youtube.com/vi/eH2zlyrvBZg/maxresdefault.jpg"
+width="100%"
+alt="Smart Gas Leakage Detection System">
 </a>
 
 <p align="center">
@@ -409,12 +413,12 @@ process and display environmental or system data.
 
 
 <!-- ========================================================= -->
-<!--                    AWARDS                                  -->
+<!--                     AWARDS                                 -->
 <!-- ========================================================= -->
 
 <h2>🏆 Awards &amp; Achievements</h2>
 
-<table width="100%">
+<table width="100%" cellpadding="15" cellspacing="0">
 
 <tr>
 
@@ -422,9 +426,7 @@ process and display environmental or system data.
 
 <h1>🥇</h1>
 
-<b>Gold Award</b>
-
-<br>
+<h3>Gold Award</h3>
 
 i-RiSE 2025
 
@@ -434,9 +436,7 @@ i-RiSE 2025
 
 <h1>🥈</h1>
 
-<b>Silver Award</b>
-
-<br>
+<h3>Silver Award</h3>
 
 AIOTIE 2024
 
@@ -446,9 +446,7 @@ AIOTIE 2024
 
 <h1>🏅</h1>
 
-<b>Vice Chancellor Award</b>
-
-<br>
+<h3>Vice Chancellor Award</h3>
 
 UiTM
 
@@ -460,26 +458,36 @@ UiTM
 
 
 <!-- ========================================================= -->
-<!--                    CURRENT LEARNING                        -->
+<!--                     CURRENTLY LEARNING                     -->
 <!-- ========================================================= -->
 
 <h2>📚 Currently Learning</h2>
 
-<ul>
+<table width="100%" cellpadding="8">
 
-<li>Embedded Firmware Development</li>
-<li>Advanced C &amp; C++</li>
-<li>STM32 Microcontroller Development</li>
-<li>IoT System Development</li>
-<li>Edge AI Deployment</li>
-<li>Computer Vision</li>
-<li>Networking &amp; Embedded Communication</li>
+<tr>
 
-</ul>
+<td width="25%">⚙️ Embedded Firmware</td>
+<td width="25%">💻 Advanced C &amp; C++</td>
+<td width="25%">🔌 STM32 Development</td>
+<td width="25%">🌐 IoT Systems</td>
+
+</tr>
+
+<tr>
+
+<td>🤖 Edge AI</td>
+<td>👁️ Computer Vision</td>
+<td>📡 Networking</td>
+<td>🔗 Embedded Communication</td>
+
+</tr>
+
+</table>
 
 
 <!-- ========================================================= -->
-<!--                    GITHUB STATS                            -->
+<!--                     GITHUB STATISTICS                       -->
 <!-- ========================================================= -->
 
 <h2>📊 GitHub Statistics</h2>
@@ -502,7 +510,7 @@ alt="Top Languages"
 
 
 <!-- ========================================================= -->
-<!--                    CONTRIBUTIONS                           -->
+<!--                     CONTRIBUTIONS                          -->
 <!-- ========================================================= -->
 
 <h2>📈 Contribution Activity</h2>
@@ -518,12 +526,12 @@ alt="GitHub Streak"
 
 
 <!-- ========================================================= -->
-<!--                    CONNECT                                 -->
+<!--                     CONTACT                                -->
 <!-- ========================================================= -->
 
 <h2>📫 Let's Connect</h2>
 
-<table width="100%">
+<table width="100%" cellpadding="15">
 
 <tr>
 
@@ -553,7 +561,7 @@ LinkedIn Profile
 
 
 <!-- ========================================================= -->
-<!--                    FOOTER                                  -->
+<!--                     FOOTER                                 -->
 <!-- ========================================================= -->
 
 <br>
