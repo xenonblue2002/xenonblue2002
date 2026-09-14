@@ -11,7 +11,7 @@
 
 <td width="40%" align="center" valign="middle">
 
-<img src="./profile.jpg" width="280" alt="Muhammad Haikal">
+<img src="./profile.png" width="280" alt="Muhammad Haikal">
 
 <br><br>
 
