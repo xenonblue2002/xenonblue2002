@@ -46,17 +46,19 @@
 
 
 <!-- ========================================================= -->
-<!--                       PROJECTS                            -->
+<!--                    PROJECTS                               -->
 <!-- ========================================================= -->
 
 <table width="100%" cellpadding="18" cellspacing="12">
 
 
 <!-- ========================================================= -->
-<!--                 PROJECT 01 + 02                          -->
+<!--                 PROJECT 01 + 02                           -->
 <!-- ========================================================= -->
 
 <tr>
+
+<!-- PROJECT 01 -->
 
 <td width="50%" valign="top" bgcolor="#090B12">
 
@@ -106,64 +108,13 @@ WARNING ALERT
 </td>
 
 
-<td width="50%" valign="top" bgcolor="#090B12">
-
-<div align="center">
-
-<h2>02 // EDGE AI WASTE</h2>
-
-</div>
-
-<hr>
-
-<p><b>PROJECT STATUS</b></p>
-
-<p><code>[ COMPLETED ]</code></p>
-
-<p><b>DESCRIPTION</b></p>
-
-<p>
-An edge AI-based waste classification system designed to identify different categories of waste using computer vision.
-</p>
-
-<p><b>SYSTEM CORE</b></p>
-
-<pre>
-PROCESSOR  → Raspberry Pi
-MCU        → ESP32
-AI MODEL   → TensorFlow Lite
-VISION     → OpenCV
-</pre>
-
-<p><b>CLASSIFICATION</b></p>
-
-<pre>
-FOOD
-METAL
-PAPER
-PLASTIC
-</pre>
-
-<p><b>SYSTEM</b></p>
-
-<code>EDGE AI // COMPUTER VISION</code>
-
-</td>
-
-</tr>
-
-
-<!-- ========================================================= -->
-<!--                 PROJECT 03 + 04                          -->
-<!-- ========================================================= -->
-
-<tr>
+<!-- PROJECT 02 -->
 
 <td width="50%" valign="top" bgcolor="#090B12">
 
 <div align="center">
 
-<h2>03 // AR NETWORK</h2>
+<h2>02 // AR NETWORK</h2>
 
 </div>
 
@@ -204,12 +155,22 @@ PORT STATUS
 
 </td>
 
+</tr>
+
+
+<!-- ========================================================= -->
+<!--                 PROJECT 03 + 04                           -->
+<!-- ========================================================= -->
+
+<tr>
+
+<!-- PROJECT 03 -->
 
 <td width="50%" valign="top" bgcolor="#090B12">
 
 <div align="center">
 
-<h2>04 // GAS DETECTION</h2>
+<h2>03 // GAS DETECTION</h2>
 
 </div>
 
@@ -260,20 +221,14 @@ REMOTE MONITORING
 
 </td>
 
-</tr>
 
-
-<!-- ========================================================= -->
-<!--                 PROJECT 05 + 06                          -->
-<!-- ========================================================= -->
-
-<tr>
+<!-- PROJECT 04 -->
 
 <td width="50%" valign="top" bgcolor="#090B12">
 
 <div align="center">
 
-<h2>05 // SMART SUITCASE</h2>
+<h2>04 // SMART SUITCASE</h2>
 
 </div>
 
@@ -315,12 +270,20 @@ SMART SUITCASE
 
 </td>
 
+</tr>
+
+
+<!-- ========================================================= -->
+<!--                    PROJECT 05                             -->
+<!-- ========================================================= -->
+
+<tr>
 
 <td width="50%" valign="top" bgcolor="#090B12">
 
 <div align="center">
 
-<h2>06 // SENSOR MONITOR</h2>
+<h2>05 // SENSOR MONITOR</h2>
 
 </div>
 
@@ -362,6 +325,10 @@ MONITORING DASHBOARD
 <p><b>SYSTEM</b></p>
 
 <code>IoT // SENSOR MONITORING</code>
+
+</td>
+
+<td width="50%" valign="top">
 
 </td>
 
