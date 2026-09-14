@@ -1,120 +1,401 @@
+<div align="center">
+
 # 👋 Welcome to Haikal's GitHub!
 
-Hi there! I'm **Muhammad Haikal Bin Zulkifli**, a final-year Electronics Engineering student at Universiti Teknologi MARA (UiTM) with a strong interest in:
+</div>
 
-🤖 Artificial Intelligence  
-☁️ Cloud Computing  
-📊 Data Analytics  
-👁️ Computer Vision  
-🔬 Embedded Systems  
-📱 Augmented Reality Development
+<table>
+<tr>
 
-I enjoy transforming ideas into real-world solutions through software, AI, and engineering projects. My goal is to build intelligent systems that solve practical problems and create meaningful impact.
+<!-- ==================== LEFT SIDE ==================== -->
+
+<td width="40%" align="center" valign="middle">
+
+<img src="./profile.jpg" width="280" alt="Muhammad Haikal">
+
+<br><br>
+
+<h2>Muhammad Haikal Bin Zulkifli</h2>
+
+<p>
+<b>Electronics Engineering Graduate</b>
+</p>
+
+<p>
+Embedded Systems • Firmware • IoT
+</p>
+
+</td>
+
+
+<!-- ==================== RIGHT SIDE ==================== -->
+
+<td width="60%" valign="top">
+
+<h2>👨‍💻 Biodata</h2>
+
+<table>
+
+<!-- BASIC INFORMATION -->
+
+<tr>
+<td><b>Name</b></td>
+<td>Muhammad Haikal Bin Zulkifli</td>
+</tr>
+
+<tr>
+<td><b>Role</b></td>
+<td>ASEM Trainee</td>
+</tr>
+
+<tr>
+<td><b>Field</b></td>
+<td>Embedded System</td>
+</tr>
+
+<tr>
+<td><b>Education</b></td>
+<td>Bachelor of Electronics Engineering (Hons.)</td>
+</tr>
+
+<tr>
+<td><b>Studied at</b></td>
+<td>Universiti Teknologi MARA (UiTM)</td>
+</tr>
+
+
+<!-- ACHIEVEMENTS -->
+
+<tr>
+<td colspan="2">
+<br>
+<b>🏆 Achievement</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">🥇</td>
+<td>Gold Award – i-RiSE 2025</td>
+</tr>
+
+<tr>
+<td align="center">🥈</td>
+<td>Silver Award – AIOTIE 2024</td>
+</tr>
+
+<tr>
+<td align="center">🏅</td>
+<td>Vice Chancellor Award Recipient</td>
+</tr>
+
+<tr>
+<td align="center">🔬</td>
+<td>R&amp;D Experience – MIMOS</td>
+</tr>
+
+
+<!-- MAIN INTEREST -->
+
+<tr>
+<td colspan="2">
+<br>
+<b>💡 Main Interest</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">⚙️</td>
+<td>Embedded Systems &amp; Firmware</td>
+</tr>
+
+<tr>
+<td align="center">🌐</td>
+<td>IoT &amp; Connected Devices</td>
+</tr>
+
+<tr>
+<td align="center">🤖</td>
+<td>Edge AI &amp; Computer Vision</td>
+</tr>
+
+<tr>
+<td align="center">📡</td>
+<td>Networking</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
-## 🚀 About Me
+## 🛠️ Technical Skills
 
-🎓 Bachelor of Electronics Engineering (Hons.) – UiTM Shah Alam  
-📈 Current CGPA: 3.76  
-🏆 Gold Medalist – i-RiSE 2025  
-🥈 Silver Medalist – AIOTIE 2024  
-🏅 Vice Chancellor Award Recipient
+<table>
 
-Currently exploring:
+<tr>
 
-- Machine Learning & Deep Learning
-- Computer Vision Applications
-- Edge AI Deployment
-- AWS Cloud Services
-- Augmented Reality Systems
-- Data Analytics & Visualization
+<td width="50%" valign="top">
 
----
+### 💻 Programming Languages
 
-## 🛠️ Tech Stack
-
-### Artificial Intelligence
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- OpenCV
-- Edge Impulse
-- Google Colab
-- Jupyter Notebook
-
-### Programming Languages
-- Python
 - C
 - C++
+- Python
 - C#
-- PowerShell
 
-### Cloud Computing
-- AWS EC2
-- AWS S3
-- AWS IAM
-- AWS Lambda
-- AWS RDS
-- AWS VPC
-- AWS Elastic Beanstalk
+### ⚙️ Embedded Systems
 
-### Embedded Systems
-- ESP32
 - STM32
+- ESP32
 - Arduino
 - Raspberry Pi
 
-### Development Tools
+### 🔌 Electronics
+
+- Sensor Integration
+- Microcontroller Interfacing
+- GPIO
+- ADC
+- UART
+- SPI
+- I2C
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Computer Vision
+
+- TensorFlow
+- TensorFlow Lite
+- OpenCV
+- Machine Learning
+- Deep Learning
+- Edge AI
+
+### 🌐 IoT & Networking
+
+- Blynk
+- Wi-Fi
+- IP Addressing
+- Cisco IOS
+- Networking Fundamentals
+
+### 🔧 Development Tools
+
+- Git & GitHub
+- Arduino IDE
+- Proteus
+- LTspice
 - Unity
 - Vuforia
 - Android Studio
-- Git & GitHub
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 🚒 AI-Based Fire Detection Using Image Processing
-Developed a real-time fire and smoke detection system using Computer Vision techniques with Python and OpenCV.
+<table>
 
-### ♻️ Edge AI-Based Automated Waste Classification System
-Designed an intelligent waste classification and sorting system using Deep Learning, Raspberry Pi, ESP32, and TensorFlow.
+<tr>
 
-### 📱 AR-Based Network Information Visualization
-Developed a marker-based Augmented Reality application using Unity and Vuforia that visualizes network device information in real time.
+<td width="50%" valign="top">
 
-### 👓 Smart Eyeglasses for Driving Safety
-Award-winning innovation that detects driver drowsiness using infrared sensors and triggers warning alerts.
+## 👓 Smart Eyeglasses for Driving Safety
 
-### 🧳 Smart Suitcase
-Designed a Bluetooth-controlled smart suitcase with a custom mobile application developed using MIT App Inventor.
+An embedded safety system designed to detect prolonged eye closure using infrared sensors and provide warning alerts.
 
-### 💨 Smart Gas Leakage Detection System
-[![Smart Gas Leakage Detection System](https://img.youtube.com/vi/eH2zlyrvBZg/maxresdefault.jpg)](https://youtu.be/eH2zlyrvBZg)
+🏆 **Gold Award – i-RiSE 2025**
 
-Click the image above to watch the demonstration video.
+**Technologies:**
+
+`Embedded C` `Sensors` `Microcontroller`
+
+</td>
+
+
+<td width="50%" valign="top">
+
+## ♻️ Edge AI Waste Classification
+
+An intelligent waste classification and sorting system using computer vision and edge AI.
+
+**Technologies:**
+
+`Raspberry Pi` `ESP32` `TensorFlow Lite` `OpenCV` `Python`
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📡 AR Network Visualization
+
+A marker-based Augmented Reality application that visualizes network device information including IP addresses, MAC addresses and port status.
+
+**Technologies:**
+
+`Unity` `Vuforia` `Networking` `Telnet`
+
+</td>
+
+
+<td width="50%" valign="top">
+
+## 🔥 Smart Gas Leakage Detection
+
+An IoT-based gas monitoring system using MQ-2 and ESP32/NodeMCU with remote monitoring.
+
+**Technologies:**
+
+`ESP32` `NodeMCU` `MQ-2` `Blynk`
+
+<br>
+
+<a href="https://youtu.be/eH2zlyrvBZg">
+<img src="https://img.youtube.com/vi/eH2zlyrvBZg/maxresdefault.jpg" width="100%">
+</a>
+
+🎥 **Watch the Demonstration**
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
-## 📈 Current Learning Journey
+# 🏆 Awards & Achievements
 
-- Advanced Machine Learning
-- Deep Learning Optimization
-- AWS Cloud Practitioner
-- Edge AI Deployment
-- MLOps Fundamentals
-- Data Analytics
+<table>
+
+<tr>
+
+<td align="center">
+
+🥇
+
+### Gold Award
+
+**i-RiSE 2025**
+
+</td>
+
+<td align="center">
+
+🥈
+
+### Silver Award
+
+**AIOTIE 2024**
+
+</td>
+
+<td align="center">
+
+🏅
+
+### Vice Chancellor Award
+
+**UiTM**
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
-## 📫 Let's Connect
+# 📊 GitHub Statistics
 
-📧 Email: haikalzulkifli2002@gmail.com
+<div align="center">
 
-💼 LinkedIn:
-www.linkedin.com/in/HaikalZulkifli
+<img src="https://github-readme-stats.vercel.app/api?username=xenonblue2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenonblue2002&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+</div>
+
 
 ---
 
-> "Engineering builds the future. AI makes it intelligent."
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xenonblue2002&theme=tokyonight&hide_border=true">
+
+</div>
+
+
+---
+
+# 📫 Let's Connect
+
+<table>
+
+<tr>
+
+<td align="center">
+
+📧
+
+<b>Email</b>
+
+<br>
+
+haikalzulkifli2002@gmail.com
+
+</td>
+
+<td align="center">
+
+💼
+
+<b>LinkedIn</b>
+
+<br>
+
+<a href="https://www.linkedin.com/in/haikal-zulkifli-724884254/">
+LinkedIn Profile
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+<div align="center">
+
+### ⚙️ Embedded Systems • Firmware • IoT • Electronics • Edge AI
+
+<br>
+
+*"Building practical solutions through electronics and technology."*
+
+</div>
